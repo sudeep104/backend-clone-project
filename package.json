@@ -1,0 +1,20 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Sudeep Nagda",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "undefined": "^0.1.0"
+  }
+}
